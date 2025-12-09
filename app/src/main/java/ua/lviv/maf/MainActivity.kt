@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var webView: WebView
 
-    private val START_URL = "https://maf.lviv.ua"
+    private val START_URL = "https://maf.lviv.ua/wp-login.php"
     private val OFFLINE_URL = "file:///android_asset/offline.html"
 
     @SuppressLint("SetJavaScriptEnabled")
