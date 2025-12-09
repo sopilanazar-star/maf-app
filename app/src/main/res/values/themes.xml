@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Основна тема додатку -->
+    <style name="Theme.MAFFootball" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- Головний фон вікна, щоб не було білого миготіння -->
+    <item name="android:windowBackground">@android:color/black</item>
+
+    <!-- інші твої налаштування теми, якщо були -->
+</style>
+
+</resources>
+
